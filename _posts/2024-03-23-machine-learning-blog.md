@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Introduction to Machine Learning
 categories: [machine-learning, tutorial]
 tags: [machine-learning, tutorial, introduction]
