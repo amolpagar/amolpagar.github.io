@@ -28,7 +28,7 @@ twitter_username: amolpagar
 github_username:  amolpagar
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
