@@ -1,3 +1,12 @@
+title: CodeWise Chronicles
+email: pagaramol22@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to CodeWise Chronicles, where we explore the latest trends and innovations in technology, coding, and design. Dive into our insightful articles, tutorials, and resources to stay informed and inspired in the ever-evolving digital landscape.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: amolpagar
+github_username:  amolpagar
+
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
