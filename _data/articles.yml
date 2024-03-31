@@ -3,10 +3,10 @@
   description: Git is a distributed revision control and Source Code Management(SCM) system with an emphasis on speed. Git was initially designed and developed by Linus Torvalds for Linux kernel development.
   img: assets/getting-started-with-github-actions.png
 
-# - title: Machine / Deep Learning for Biological Data Analysis
-#   slug: machine-or-deep-learning-for-biological-data-analysis
-#   description: This article describes about getting started with using Machine or Deep Learning for Bioinformatics which is a very promising field in coming days.
-#   img: assets/machine-learning-biological-data.png
+- title: API Gateways comparison
+  slug: api-gateways-comparison
+  description: API gateways.
+  img: assets/api-gateways-comparison.png
 
 # - title: Amazon S3 bucket for storing media files of django app on heroku
 #   slug: amazon-s3-bucket-for-storing-media-files-of-django
