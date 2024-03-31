@@ -11,10 +11,10 @@ body{
     height: 15rem;
     padding-bottom: 5rem;
     width: 100%;
-    /* background: url(../images/background.jpg) center; */
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(1,102,90,1) 39%, rgba(8,9,20,1) 100%);
     background-size: cover;
     overflow: hidden;
-    background-color:#111;
 }
 
 .main-heading{
@@ -24,12 +24,14 @@ body{
 	color:darkgray;
 }
 
-.main-container{
-	min-height: 800px;
-	margin-top: -70px;
-	padding: 30px;
+.main-container {
+    min-height: 800px;
+    margin-top: -70px;
+    padding: 30px;
     background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
+
 
 @media (min-width:1200px) {
     .main-container{
@@ -138,14 +140,14 @@ body{
     font-size: 1.75em;
     line-height: 1.225;
     border-bottom: 1px solid #eee;
-    color: rgb(255, 47, 146);
+    color: rgb(97, 85, 111);
     margin-top: 1.8em;
     margin-bottom: 0.1em;
 }
 .markdown-body h3 {
     font-size: 1.5em;
     line-height: 1.43;
-    color: rgb(148, 55, 255);
+    color: rgb(102, 17, 249);
     margin-top: 1.8em;
     margin-bottom: 0.1em;
     font-weight: bold;

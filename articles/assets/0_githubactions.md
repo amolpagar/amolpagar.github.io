@@ -11,7 +11,7 @@ GitHub Actions allows you to automate your workflow directly from your GitHub re
 
 Create a new directory named `.github/workflows` in your repository if it doesn't already exist. Inside this directory, create a new file named `main.yml`. This file will define your workflow.
 
-```yaml
+```yml
 name: My Workflow
 on: [push]
 
@@ -22,6 +22,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: Run a one-line script
       run: echo Hello, world!
+
+```
 
 This workflow will run whenever you push to your repository and will echo "Hello, world!" as a demonstration.
 
