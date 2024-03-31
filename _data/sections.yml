@@ -1,0 +1,19 @@
+# - title: TechBlogs
+#   description: Blogs on various different technologies, computer science fundamentals, computer languages and many more, properly categorised with proper documentation and code imeplementation.
+#   img: /path/to/techblogs/img
+#   slug: techblogs
+
+- title: Articles
+  description: Browse all the technical articles on recent and trending technologies.
+  img: /path/to/articles/img
+  slug: articles
+
+- title: About
+  description: Details about me about the technical abilities, education, personal and professional life.
+  img: /path/to/about/img
+  slug: about
+
+# - title: Blogs
+#   description: Blogs on various different technologies, computer science fundamentals, computer languages and many more, properly categorised with proper documentation and code imeplementation.
+#   img: /path/to/blogs/img
+#   slug: blogs

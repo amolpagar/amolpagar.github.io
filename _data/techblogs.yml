@@ -1,0 +1,514 @@
+- 
+    title: Data Structures
+    slug: data-structures
+    topics:
+        -
+            title: Array
+            slug: array
+        -
+            title: String
+            slug: string
+        -
+            title: Linked List
+            slug: linked-list
+        -
+            title: Stack
+            slug: stack
+        -
+            title: Queue
+            slug: queue
+        -
+            title: Matrix
+            slug: matrix
+        -
+            title: Binary Tree
+            slug: binary-tree
+        -
+            title: Binary Search Tree
+            slug: binary-search-tree
+        -
+            title: Heap
+            slug: heap
+        -
+            title: Hash
+            slug: hash
+        -
+            title: Graph
+            slug: graph
+
+
+# -
+#     title: Algorithms
+#     slug: algorithms
+#     topics:
+#         -
+#             title: Complexity Analysis
+#             slug: complexity-analysis
+#         -
+#             title: Searching Algorithms
+#             slug: searching-algorithms
+#         -
+#             title: Sorting Algorithms
+#             slug: sorting-algorithms
+#         -
+#             title: Selection Algorithms
+#             slug: selection-algorithms
+#         -
+#             title: Recursion Backtrack Approach
+#             slug: recursion-backtrack-approach
+#         -
+#             title: Greedy Approach
+#             slug: greedy-approach
+#         -
+#             title: Dynamic Programming Approach
+#             slug: dynamic-programming-approach
+#         -
+#             title: Divide and Conquer Approach
+#             slug: divide-and-conquer-approach
+#         -
+#             title: Pattern Search Alogrithms
+#             slug: pattern-search-alogrithms
+#         -
+#             title: Bit Algorithms
+#             slug: bit-algorithms
+#         -
+#             title: Mathematical Algorithms
+#             slug: mathematical-algorithms
+#         -
+#             title: Geometric Algorithms
+#             slug: geometric-algorithms
+#         -
+#             title: Randomized Algorithms
+#             slug: randomized-algorithms
+#         -
+#             title: Branch and Bound Approach
+#             slug: branch-and-bound-approach
+#         -
+#             title: Miscellaneous Algorithmic Problems
+#             slug: miscellaneous
+
+
+# - 
+#     title: Advanced Data Structures
+#     slug: advanced-data-structures
+#     topics:
+#         -
+#             title: N-ary Tree
+#             slug: n-ary-tree
+#         -
+#             title: Skip List
+#             slug: skip-list
+#         -
+#             title: Trie
+#             slug: trie
+#         -
+#             title: AVL Tree
+#             slug: avl-tree
+#         -
+#             title: Suffix Array
+#             slug: suffix-array
+#         -
+#             title: Suffix Tree
+#             slug: suffix-tree
+#         -
+#             title: Segment Tree
+#             slug: segment-tree
+#         -
+#             title: Interval Tree
+#             slug: interval-tree
+#         -
+#             title: Binary Indexed / Fenwick Tree
+#             slug: binary-indexed-or-fenwick-tree
+#         -
+#             title: Splay Tree
+#             slug: splay-tree
+#         -
+#             title: B-Trees
+#             slug: b-trees
+#         -
+#             title: Red-Black Tree
+#             slug: red-black-tree
+#         -
+#             title: Ternary Search Tree
+#             slug: ternary-search-tree
+
+
+# - 
+#     title: Coding Problem Patterns
+#     slug: coding-problem-patterns
+#     topics:
+#         -
+#             title: Modified Binary Search Pattern
+#             slug: modified-binary-search-pattern
+#         -
+#             title: Intelligent Hashing Pattern
+#             slug: intelligent-hashing-pattern
+#         -
+#             title: Two Pointers Pattern
+#             slug: two-pointers-pattern
+#         -
+#             title: Quick Select Pattern
+#             slug: quick-select-pattern
+#         -
+#             title: Sliding Window Pattern
+#             slug: sliding-window-pattern
+#         -
+#             title: Breadth First Search Pattern
+#             slug: breadth-first-search-pattern
+#         -
+#             title: Depth First Search Pattern
+#             slug: depth-first-search-pattern
+#         -
+#             title: Topological Sort Pattern
+#             slug: topological-sort-pattern
+#         -
+#             title: Two Heaps Pattern
+#             slug: two-heaps-pattern
+#         -
+#             title: K Way Merge Pattern
+#             slug: k-way-merge-pattern
+#         -
+#             title: Top K Elements Pattern
+#             slug: top-k-elements-pattern
+#         -
+#             title: Merge Intervals Pattern
+#             slug: merge-intervals-pattern
+#         -
+#             title: Subsets Handling Pattern
+#             slug: subsets-handling-pattern
+#         -
+#             title: Mathematical Concepts Pattern
+#             slug: mathematical-concepts-pattern
+#         -
+#             title: Bitwise XOR Pattern
+#             slug: bitwise-xor-attern
+#         -
+#             title: Fast and Slow Pointers Pattern
+#             slug: fast-and-slow-pointers-pattern
+#         -
+#             title: Inplace Linked List Reversal Pattern
+#             slug: inplace-linked-list-reversal-pattern
+#         -
+#             title: Cyclic Sort Pattern
+#             slug: cyclic-sort-pattern
+#         -
+#             title: Design Custom Data Structures Pattern
+#             slug: design-custom-data-structures-pattern
+#         -
+#             title: Miscellaneous Coding Patterns Problems
+#             slug: miscellaneous-coding-patterns-problems
+
+
+
+# - 
+#     title: Dynamic Programming Patterns
+#     slug: dynamic-programming-patterns
+#     topics:
+#         -
+#             title: Introduction
+#             slug: introduction
+#         -
+#             title: Fibonacci Numbers Pattern
+#             slug: fibonacci-numbers-pattern
+#         -
+#             title: 0/1 Knapsack Pattern
+#             slug: 0-1-knapsack-pattern
+#         -
+#             title: Unbounded Knapsack Pattern
+#             slug: unbounded-knapsack-pattern=
+#         -
+#             title: Longest Palindromic Subsequence Pattern
+#             slug: longest-palindromic-subsequence-pattern
+#         -
+#             title: Longest Common Subsequence Pattern
+#             slug: longest-common-subsequence-pattern
+#         -
+#             title: Longest Increasing Subsequence Pattern
+#             slug: longest-increasing-subsequence-pattern
+#         -
+#             title: Miscellaneous DP Problems
+#             slug: miscellaneous-dp-problems
+
+
+# - 
+#     title: High Level System Design
+#     slug: high-level-system-design
+#     topics:
+#         -
+#             title: Basics
+#             slug: basics
+#         -
+#             title: Concepts - Part-1
+#             slug: concepts-part-1
+#         -
+#             title: Concepts - Part-2
+#             slug: concepts-part-2
+#         -
+#             title: Step By Step Guide
+#             slug: step-by-step-guide
+#         -
+#             title: Tools and Techniques
+#             slug: tools-techniques
+#         -
+#             title: Design Tiny Url Service
+#             slug: design-tiny-url-service
+#         -
+#             title: Design Pastebin
+#             slug: design-pastebin
+#         -
+#             title: Design Instagram
+#             slug: design-instagram
+#         -
+#             title: Design Dropbox
+#             slug: design-dropbox
+#         -
+#             title: Design Facebook Messenger
+#             slug: design-facebook-messenger
+#         -
+#             title: Design Twitter
+#             slug: design-twitter
+#         -
+#             title: Design Youtube / Netflix
+#             slug: design-youtube-or-netflix
+#         -
+#             title: Design Typeahead Suggestion
+#             slug: design-typeahead-suggestion
+#         -
+#             title: Design Api Rate Limiter
+#             slug: design-api-rate-limiter
+#         -
+#             title: Design Twitter Search
+#             slug: design-twitter-search
+#         -
+#             title: Design Web Crawler
+#             slug: design-web-crawler
+#         -
+#             title: Design Facebook Newsfeed
+#             slug: design-facebook-newsfeed
+#         -
+#             title: Design Yelp / Nearby
+#             slug: design-yelp-or-nearby
+#         -
+#             title: Design Uber
+#             slug: design-uber
+#         -
+#             title: Design BookMyShow
+#             slug: design-bookmyshow
+
+# - 
+#     title: Low Level System Design
+#     slug: low-level-system-design
+#     topics:
+#         -
+#             title: Low Level Design Basics
+#             slug: low-level-design-basics
+#         -
+#             title: Unified Modeling Language (UML)
+#             slug: unified-modeling-language-uml
+#         -
+#             title: Design Library Management System
+#             slug: design-library-management-system
+#         -
+#             title: Design Parking Lot
+#             slug: design-parking-lot
+#         -
+#             title: Design Online Shopping System - Amazon
+#             slug: design-online-shopping-system-amazon
+#         -
+#             title: Design StackOverflow
+#             slug: design-stackoverflow
+#         -
+#             title: Design Movie Ticket Booking System
+#             slug: design-movie-ticket-booking-system
+#         -
+#             title: Design ATM
+#             slug: design-atm
+#         -
+#             title: Design Airline Management System
+#             slug: design-airline-management-system
+#         -
+#             title: Design BlackJack and Deck of Cards
+#             slug: design-blackjack-and-deck-of-cards
+#         -
+#             title: Design Hotel Management System
+#             slug: design-hotel-management-system
+#         -
+#             title: Design Restaurant Design System
+#             slug: design-restaurant-design-system
+#         -
+#             title: Design Chess
+#             slug: design-chess
+#         -
+#             title: Design Online Brokerage System
+#             slug: design-online-brokerage-system
+#         -
+#             title: Design Car Rental System
+#             slug: design-car-rental-system
+#         -
+#             title: Design Linkedin
+#             slug: design-linkedin
+#         -
+#             title: Design Cricinfo
+#             slug: design-cricinfo
+#         -
+#             title: Design Social Network - Facebook
+#             slug: design-docial-network-facebook
+
+
+# - 
+#     title: Software Engineering
+#     slug: software-engineering
+#     topics:
+#         -
+#             title: Understanding Microservices
+#             slug: understanding-microservices
+#         -
+#             title: Understading APIs and REST APIs
+#             slug: understanding-apis-rest-apis
+#         -
+#             title: MVC, MVP and MVVM Architectures
+#             slug: mvc-mvp-mvvm-architectures
+#         -
+#             title: Dependency Injection
+#             slug: dependency-injection=
+
+
+# - 
+#     title: Software Design Patterns
+#     slug: software-design-patterns
+#     topics:
+#         -
+#             title: Design Principles (S.O.L.I.D)
+#             slug: design-principles-solid
+#         -
+#             title: Design Patterns Introduction
+#             slug: design-pattterns-introduction
+#         -
+#             title: Creational Design Pattterns
+#             slug: creational-design-pattterns
+#         -
+#             title: Structural Design Pattterns
+#             slug: structural-design-pattterns
+#         -
+#             title: Behavioral Design Pattterns
+#             slug: behavioral-design-pattterns
+#         -
+#             title: J2EE Design Patterns
+#             slug: j2ee-design-pattterns
+
+
+# - 
+#     title: Java
+#     slug: java
+#     topics:
+#         -
+#             title: Introduction
+#             slug: introduction
+#         -
+#             title: JVM Architecture
+#             slug: jvm-architecture
+#         -
+#             title: Basics
+#             slug: basics
+#         -
+#             title: Object Oriented Programming
+#             slug: object-oriented-programming
+#         -
+#             title: Arrays and Strings
+#             slug: arrays-and-strings
+#         -
+#             title: Collections
+#             slug: collections
+#         -
+#             title: Lambdas and Streams
+#             slug: lambdas-and-streams
+#         -
+#             title: Exceptions Handling
+#             slug: exceptions-handling
+#         -
+#             title: Regular Expressions
+#             slug: regular-expressions
+#         -
+#             title: Multi-Threading
+#             slug: multi-threading
+#         -
+#             title: File Handling
+#             slug: file-handling
+#         -
+#             title: Packages
+#             slug: packages
+    
+
+# - 
+#     title: Python
+#     slug: python
+#     topics:
+#         -
+#             title: Data Structures
+#             slug: data-structures
+#         -
+#             title: Object Oriented Programming
+#             slug: object-oriented-programming
+#         -
+#             title: Regular Expressions
+#             slug: regular-expressions
+
+
+# - 
+#     title: Web Frameworks
+#     slug: web-frameworks
+#     topics:
+#         -
+#             title: Django - Python
+#             slug: django-python
+#         -
+#             title: Spring - Java
+#             slug: spring-java
+#         -
+#             title: Spring Boot - Java
+#             slug: spring-boot-java
+
+
+# - 
+#     title: Machine Learning
+#     slug: machine-learning
+#     topics: 
+#         -
+#             title: Setup and Resources
+#             slug: setup-and-resources
+#         -
+#             title: Introduction
+#             slug: introduction
+#         -
+#             title: Linear Regression with One Variable
+#             slug: linear-regression-one-variable
+#         -
+#             title: Linear Algebra
+#             slug: linear-algebra
+#         -
+#             title: Linear Regression with Multiple Variables
+#             slug: linear-regression-multiple-variables
+#         -
+#             title: Octave / Matlab Tutorial
+#             slug: octave-matlab-tutorial
+#         -
+#             title: Logistic Regression
+#             slug: Logistic Regression
+#         -
+#             title: Regularization
+#             slug: regularization
+#         -
+#             title: Neural Networks
+#             slug: neural-networks
+
+
+# - 
+#     title: AI - Robotics
+#     slug: ai-robotics
+#     topics: 
+#         -
+#             title: Computer Vision - OpenCV
+#             slug: computer-vision-opencv
+#         -
+#             title: Numerical Computation - Numpy
+#             slug: numerical-computation-numpy

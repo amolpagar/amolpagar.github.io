@@ -1,0 +1,12 @@
+- 
+    title: Myself
+    slug: me
+    description: Depiction of my education, work experience and technical abilities.
+    img: /path/to/myself/img
+
+- 
+    title: Resume
+    slug: my-resume
+    description: Depiction of my education, work experience and technical abilities.
+    img: /path/to/my-resume/img
+
