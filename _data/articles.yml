@@ -1,3 +1,8 @@
+- title: Scripting Languages
+  slug: scripting-languages
+  description: Scripting Languages comparison.
+  img: assets/scripting-languages-comparison.png
+
 - title: Getting started with Github Actions
   slug: getting-started-with-github-actions
   description: Git is a distributed revision control and Source Code Management(SCM) system with an emphasis on speed. Git was initially designed and developed by Linus Torvalds for Linux kernel development.
