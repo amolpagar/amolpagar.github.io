@@ -1,7 +1,7 @@
-# - title: TechBlogs
-#   description: Blogs on various different technologies, computer science fundamentals, computer languages and many more, properly categorised with proper documentation and code imeplementation.
-#   img: /path/to/techblogs/img
-#   slug: techblogs
+- title: Projects
+  description: Personal hobby projects which I have built.
+  img: /path/to/projects/img
+  slug: projects
 
 - title: Articles
   description: Browse all the technical articles on recent and trending technologies.
@@ -13,7 +13,3 @@
   img: /path/to/about/img
   slug: about
 
-- title: Projects
-  description: projects that I worked on.
-  img: /path/to/blogs/img
-  slug: projects
