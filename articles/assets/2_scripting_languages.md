@@ -1,6 +1,6 @@
 ---
-permalink: articles/scripting_languages
-topic: scripting_languages
+permalink: articles/scripting-languages
+topic: scripting-languages
 ---
 
 # Scripting Languages Comparison
