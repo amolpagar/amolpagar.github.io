@@ -11,7 +11,7 @@ topic: scripting-languages
 |            | - Large standard library                  | - Global Interpreter Lock (GIL) can limit concurrency|
 |            | - Strong community support                | - Not as suitable for mobile development           |
 |            | - Versatile, used in web development,      | - Packaging can be complex for distribution       |
-|              scientific computing, automation, etc.  |                                                    |
+|            | - scientific computing, automation, etc.  |                                                    |
 | JavaScript | - Ubiquitous, runs in browsers and servers| - Can be inconsistent across different browsers   |
 |            | - Asynchronous programming with Promises  | - Callback hell with nested callbacks             |
 |            | - Growing ecosystem with Node.js          | - Dynamic typing can lead to runtime errors       |
