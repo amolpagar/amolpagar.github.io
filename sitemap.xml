@@ -1,0 +1,53 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>https://amolpagar.github.io/</loc>
+		<lastmod>2024-05-04T22:29:09+00:00</lastmod>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://amolpagar.github.io/projects/converter</loc>
+		<lastmod>2024-05-04T22:29:09+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://amolpagar.github.io/articles/scripting-languages</loc>
+		<lastmod>2024-05-04T22:29:09+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://amolpagar.github.io/articles/getting-started-with-github-actions</loc>
+		<lastmod>2024-05-04T22:29:09+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://amolpagar.github.io/articles/api-gateways-comparison</loc>
+		<lastmod>2024-05-04T22:29:09+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://amolpagar.github.io/about/me</loc>
+		<lastmod>2024-05-04T22:29:09+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://amolpagar.github.io/about/my-resume</loc>
+		<lastmod>2024-05-04T22:29:09+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://amolpagar.github.io/about/</loc>
+		<lastmod>2024-05-04T22:29:09+00:00</lastmod>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://amolpagar.github.io/about/files/Amol_Pagar_2024.pdf</loc>
+		<lastmod>2024-05-04T22:29:09+00:00</lastmod>
+		<priority>0.64</priority>
+	</url>
+</urlset>
